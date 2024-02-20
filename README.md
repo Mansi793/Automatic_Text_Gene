@@ -1,11 +1,10 @@
 # Automatic_Text_Gene
 
-<<<<<<< HEAD
+
 
 ## Text Generation Project
 
-=======
->>>>>>> 2fca947c186bc053c1af5ce854cedbffa71313db
+
 This project aims to generate text using TensorFlow and a recurrent neural network (RNN) architecture known as Long Short-Term Memory (LSTM). Below are the steps involved in proceeding with this project:
 
 1. **Introduction to the Project**:
