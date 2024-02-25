@@ -50,8 +50,8 @@ This project aims to generate text using TensorFlow and a recurrent neural netwo
 
 10. **Model Training**:
     - The model is trained using a specified number of epochs and batch size.
-    - In this case, the model is trained for 100 epochs with a batch size of 256.
-    - After training, the accuracy of the model is evaluated, which is approximately 34.0%.
+    - In this case, the model is trained for 500 epochs with a batch size of 256.
+    - After training, the accuracy of the model is evaluated, which is approximately 88%.
 
 11. **Model Testing**:
     - To test the trained model, a random line from the original dataset is selected.
